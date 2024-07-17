@@ -1,0 +1,11 @@
+/Users/macbook/Desktop/Trilha_C#/Journey/src/Journey.Infrastructure/bin/Debug/net8.0/Journey.Infrastructure.deps.json
+/Users/macbook/Desktop/Trilha_C#/Journey/src/Journey.Infrastructure/bin/Debug/net8.0/Journey.Infrastructure.dll
+/Users/macbook/Desktop/Trilha_C#/Journey/src/Journey.Infrastructure/bin/Debug/net8.0/Journey.Infrastructure.pdb
+/Users/macbook/Desktop/Trilha_C#/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/Trilha_C#/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Trilha_C#/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.AssemblyInfo.cs
+/Users/macbook/Desktop/Trilha_C#/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Trilha_C#/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.dll
+/Users/macbook/Desktop/Trilha_C#/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/refint/Journey.Infrastructure.dll
+/Users/macbook/Desktop/Trilha_C#/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/Journey.Infrastructure.pdb
+/Users/macbook/Desktop/Trilha_C#/Journey/src/Journey.Infrastructure/obj/Debug/net8.0/ref/Journey.Infrastructure.dll
